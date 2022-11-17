@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-lib-cirrus",
-  "version": "8.25.10",
+  "name": "@stratisplatform/bitcore-lib-cirrus",
+  "version": "8.25.11",
   "description": "A pure and powerful JavaScript Cirrus library.",
   "author": "Stratis",
   "main": "index.js",
@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/stratisproject/bitcore-stratis/tree/master/packages/bitcore-lib-cirrus"
+    "url": "https://github.com/stratisproject/bitcore-lib-cirrus"
   },
   "browser": {
     "request": "browser-request"
@@ -50,6 +50,5 @@
     "gulp": "^4.0.0",
     "sinon": "^7.1.1"
   },
-  "license": "MIT",
-  "gitHead": "012cc0216a9bc6b195035855bd17149bad41acd1"
+  "license": "MIT"
 }
